@@ -1,6 +1,6 @@
-# Individual-Homework3
-HW3 Automated Tests
-This repository contains automated tests for HW3. It includes:
+
+# Automated Tests
+This repository contains automated test. It includes:
 HW3.java – A class with a main method as the entry point
 Five test methods in HW3.java:
 •	testPostEmptyQuestionOrAnswer()
